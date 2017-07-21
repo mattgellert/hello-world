@@ -1,2 +1,2 @@
 # hello-world
-GitHub Guides told me to
+GitHub Guides told me to write about myself =__=
